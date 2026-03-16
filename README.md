@@ -41,7 +41,3 @@ This repository demonstrates how to access powerful Large Language Models (LLMs)
 1. **Local Execution**: Running models on your own hardware using **Ollama**.
 2. **Free Cloud APIs**: Using **OpenRouter** to access hosted models with zero-cost tiers.
 
-🚀 Getting Started
-1. Follow the Terminal Installation Guide to set up Ollama.
-
-2. Grab a free key from OpenRouter to use the Cloud API script.
